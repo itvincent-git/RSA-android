@@ -36,6 +36,6 @@ allprojects {
 ## Step 2. Add the dependency
 ```
 dependencies {
-    compile 'com.github.itvincent-git:RSA-android:1.0.0'
+    compile 'com.github.itvincent-git:RSA-android:1.0.1'
 }
 ```
