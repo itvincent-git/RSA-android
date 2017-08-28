@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RSAAndroid</string>
+    <string name="action_settings">Base64 Test</string>
+</resources>
